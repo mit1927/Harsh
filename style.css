@@ -1,0 +1,120 @@
+.a{
+    border: 5px solid grey;
+    height: 150px;
+    width: 100%;
+    background-color: beige;
+    color:brown;
+    border-radius: 10px;
+    position: relative;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 10px;
+}
+html{
+    background-color: antiquewhite;
+
+}
+.q{
+    font-size: 5rem;
+    text-align :center;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+    position: absolute;
+    top: -50px;
+    left: 500px;
+    
+
+}
+.b{
+    border: 1px solid black;
+    height: 330px;
+    width: 300px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 8px; 
+    position: relative;
+    top: 50px;
+    display: inline-block;
+    margin: 2%;
+    background-color: rgb(243, 183, 105);
+    color: rgb(105, 16, 16);
+    
+}
+.nav {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: saddlebrown;
+    font-size: 17px;
+  }
+  .im{
+    height: 250px;
+    width: 95%;
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 6px;
+    border-radius:10px;
+  }
+  .na{
+    position: absolute;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 255px;
+    font-weight: bolder;
+    left: 90px;
+    
+  }
+  .buy{
+    position: absolute;
+    font-size: 25px;
+  
+    top: 290px;
+    font-weight: bolder;
+    left: 10px;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+  }
+  .cart{
+    position: absolute;
+    font-size: 25px;
+   
+    top: 290px;
+    font-weight: bolder;
+    left: 120px;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+  }
+  .s{
+    border-radius: 5px !important;
+    padding: 10px;
+    padding-right: 350PX;
+    position: absolute;
+    bottom: 10PX;
+    left: 500px ;
+
+  }
+  .boot1{
+    position: absolute;
+    border-radius: 3px !important;
+    border: 1px solid red !important;
+    background-color: yellowgreen;
+    padding: 20px !important;
+    bottom: 10px;
+    right: 200px;
+    box-shadow: 10px 10px 20px red;
+  }
+
+  .end{
+    border: 1px solid red !important;
+    height:600px;
+    position: relative;
+    top: 100px;;
+    background-color: blue;
+    border-radius: 5px !important;
+  }
+  .qq{
+    color: antiquewhite;
+  }
